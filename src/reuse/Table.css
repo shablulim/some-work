@@ -1,0 +1,21 @@
+.opration .button{
+    width:70px;
+    margin-left: 20px ;
+    border-radius: 5px;
+    background:rgb(215, 215, 247);
+    border:1px solid rgb(235, 243, 243);
+    height: 40px;
+
+}
+
+td select,td input{
+    width:250px;
+    height:30px;
+    border:none;
+    border-bottom: 1px lightgray solid;
+}
+
+.location{
+    margin-left: 20px;
+
+}

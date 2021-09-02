@@ -1,0 +1,31 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width:200px
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .map{
+    border:1px solid lightblue;
+    height:400px;
+    width:70%
+  }
+
+  .buttonAdd{
+    width:100px;
+    height:50px;
+    margin-left: 20px ;
+    border-radius: 5px;
+    background:rgb(215, 215, 247);
+    border:1px solid rgb(235, 243, 243);
+  }
