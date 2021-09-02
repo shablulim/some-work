@@ -23,7 +23,7 @@ export default function Category() {
             <div className={classes.root}>
                 <Paper elevation={1}>
                     <TableCategory/>
-                    <h1>This page is not working yet, pleas use existing categories!</h1>
+                    <h1>This page is not working yet, please use existing categories!</h1>
                 </Paper>
             </div>
         </div>
